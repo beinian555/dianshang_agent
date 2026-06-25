@@ -1,0 +1,68 @@
+from app.schemas.review import Review
+
+NEGATIVE_REVIEWS = [
+    Review(
+        id="review-001",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=2,
+        content="用了三天没感觉有提亮，保湿还可以，但是没有详情页说得那么明显。",
+        tags=["效果预期", "提亮"],
+    ),
+    Review(
+        id="review-002",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=2,
+        content="我是敏感肌，用完脸有点刺痛，不知道是不是烟酰胺不耐受。",
+        tags=["敏感肌", "刺激"],
+    ),
+    Review(
+        id="review-003",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=3,
+        content="瓶子比想象中小，30ml 感觉很快就用完了。",
+        tags=["规格认知", "性价比"],
+    ),
+    Review(
+        id="review-004",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=2,
+        content="物流盒子压坏了，虽然里面没漏，但体验不好。",
+        tags=["物流包装"],
+    ),
+    Review(
+        id="review-005",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=3,
+        content="质地有点黏，早上用后上妆会搓泥。",
+        tags=["使用体验", "妆前"],
+    ),
+    Review(
+        id="review-006",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=2,
+        content="客服说敏感肌可以用，但我用完泛红更明显。",
+        tags=["客服承诺", "敏感肌"],
+    ),
+    Review(
+        id="review-007",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=3,
+        content="补水效果还行，但是同价位选择挺多，没有特别惊喜。",
+        tags=["差异化", "性价比"],
+    ),
+    Review(
+        id="review-008",
+        product_id="beauty-main-001",
+        source="mock_platform",
+        rating=2,
+        content="详情页写得很高级，实际感觉就是普通保湿精华。",
+        tags=["预期不符", "卖点表达"],
+    ),
+]

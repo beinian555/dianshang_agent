@@ -1,0 +1,4 @@
+id,url,title,brand,price,sales_hint,rating,review_count,selling_points,main_image_texts,detail_sections,promotions,weakness_hints
+competitor-a,https://mock.shop/sunscreen/comp-a,学生党平价防晒霜 SPF50+ 清爽不油腻面部防晒 大容量100ml,CoolSun,39,月销5万+,4.5,12000,"低价大碗|学生首选|快速成膜|不假白","平价防晒|100ml大容量|清爽不油",,"第二件0元|买二送一","防晒剂单一|肤感偏干|防护力争议|不含养肤成分"
+competitor-b,https://mock.shop/sunscreen/comp-b,高倍养肤防晒霜 烟酰胺提亮 SPF50+ 精华级防晒 防蓝光,DermaDew,189,月销2000+,4.7,3500,"精华级防晒|养肤提亮|防蓝光|抗光老","精华防晒|SPF50+ 防蓝光|烟酰胺提亮",,"满300减50|赠洁面","价格高|油皮闷痘反馈|成膜慢|跟妆易搓泥"
+competitor-c,https://mock.shop/sunscreen/comp-c,纯物理防晒霜 婴儿孕妇可用 温和防晒 敏感肌专用 SPF30,NatureShield,89,月销8000+,4.8,5200,"纯物理防晒|婴儿可用|皮肤科推荐|温和无刺激","物理防晒|敏肌安心|SPF30日常防护",,"买即赠卸妆油","SPF偏低|泛白明显|质地厚重|防护时间短"
